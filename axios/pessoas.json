@@ -1,0 +1,56 @@
+[
+    {
+        "nome": "Erick Garcia",
+        "email": "erick@hotmail.com",
+        "estado": "Rio de Janeiro",
+        "idade": 27,
+        "sexo": "Masculino",
+        "CorFavortita": "preto",
+        "AnimalFavorito": "Cachorro"
+    },
+    {
+        "nome": "Gabriela Garcia",
+        "email": "gabi@hotmail.com",
+        "estado": "São Paulo",
+        "idade": 23,
+        "sexo": "Femenino",
+        "CorFavortita": "vermelho",
+        "AnimalFavorito": "Cachorro"
+    },
+    {
+        "nome": "Lyvia Araujo",
+        "email": "lyvia@hotmail.com",
+        "estado": "Mina Gerais",
+        "idade": 18,
+        "sexo": "Femenino",
+        "CorFavortita": "azul",
+        "AnimalFavorito": "gato"
+    },
+    {
+        "nome": "João Luis",
+        "email": "joao@hotmail.com",
+        "estado": "Florianópolis",
+        "idade": 48,
+        "sexo": "Masculino",
+        "CorFavortita": "amarelo",
+        "AnimalFavorito": "gato"
+    },
+    {
+        "nome": "Antonio Pedro",
+        "email": "antonio@hotmail.com",
+        "estado": "Paraíba",
+        "idade": 21,
+        "sexo": "Masculino",
+        "CorFavortita": "verde",
+        "AnimalFavorito": "gato"
+    },
+    {
+        "nome": "Sophia Araújo",
+        "email": "sophia@hotmail.com",
+        "estado": "Espirito Santo",
+        "idade": 7,
+        "sexo": "Femenino",
+        "CorFavortita": "rosa",
+        "AnimalFavorito": "Cachorro"
+    }
+]
